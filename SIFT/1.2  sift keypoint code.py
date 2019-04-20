@@ -1,4 +1,4 @@
-import cv2
+import cv2 #for loading and dispaying the image.
 from math import e,pi,sqrt
 import numpy as np
 
